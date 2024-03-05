@@ -6,7 +6,7 @@ CIS 1202
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "Hello, World!";
+	cout << "Hello, Universe!";
 
 	cin.get();
 	return 0;
